@@ -15,7 +15,10 @@ public class Animal {
 	
 		// TODO Auto-generated method stub
  void eat() {
-	System.out.println("eating");
+  System.out.println("eating..");
+  }
+ void drinkingwater() {
+	System.out.println("driking water");
 }
 	}
 
